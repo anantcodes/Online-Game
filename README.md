@@ -1,3 +1,3 @@
 # Online-Game
 
-An online game to test your multiplayer strategies :)
+An online game to test your multiplayer strategies.
